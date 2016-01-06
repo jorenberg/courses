@@ -17,3 +17,6 @@ The Data Mining Specialization teaches data mining techniques for both structure
 - Jiawei Han, Abel Bliss Professor,
 - ChengXiang Zhai, Professor, and
 - John C. Hart, Professor.
+
+### 2. Data Science Specialization
+by [Johns Hopkins University](https://www.jhu.edu/), Baltimore, MD, USA.
