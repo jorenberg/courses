@@ -12,3 +12,8 @@ The Data Mining Specialization teaches data mining techniques for both structure
 - Text Mining and Analytics
 - Data Visualization
 - Data Mining **Capstone**
+
+#### Creators:
+- Jiawei Han, Abel Bliss Professor,
+- ChengXiang Zhai, Professor, and
+- John C. Hart, Professor.
