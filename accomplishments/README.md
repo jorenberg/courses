@@ -36,3 +36,8 @@ This Specialization covers the concepts and tools you'll need throughout the ent
 - Practical Machine Learning
 - Developing Data Products
 - Data Science **Capstone**
+
+#### Creators:
+- Roger D. Peng, PhD, Associate Professor, Biostatistics,
+- Brian Caffo, PhD, Professor, Biostatistics, and
+- Jeff Leek, PhD, Associate Professor, Biostatistics.
