@@ -41,3 +41,6 @@ This Specialization covers the concepts and tools you'll need throughout the ent
 - Roger D. Peng, PhD, Associate Professor, Biostatistics,
 - Brian Caffo, PhD, Professor, Biostatistics, and
 - Jeff Leek, PhD, Associate Professor, Biostatistics.
+
+### 3. International Organizations Management
+by [University of Geneva](http://www.unige.ch/), Geneva, Switzerland.
