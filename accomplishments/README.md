@@ -57,3 +57,6 @@ International and not-for-profit organizations present an increasingly complex e
 - Stephan Mergenthaler, Associate Director, Strategic Foresight at the World Economic Forum in Geneva,
 - Dr. Lea Stadtler is Research Fellow at the University of Geneva, DHEC, and
 - Prof. Gilbert Probst, Managing Director, Leadership Office and Academic Affairs, and Dean of the Global Leadership Fellows Program at the World Economic Forum.
+
+### 4. Brand Management: Aligning Business, Brand and Behaviour
+by [London Business School](http://www.london.edu/), London, England.
