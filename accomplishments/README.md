@@ -94,3 +94,10 @@ by [Johns Hopkins University](https://www.jhu.edu/), Baltimore, MD, USA.
 #### About Executive Data Science Specialization:
 **Assemble the right team, ask the right questions, and avoid the mistakes that derail data science projects.**
 In four intensive courses, you will learn what you need to know to begin assembling and leading a data science enterprise, even if you have never worked in data science before. You’ll get a crash course in data science so that you’ll be conversant in the field and understand your role as a leader. You’ll also learn how to recruit, assemble, evaluate, and develop a team with complementary skill sets and roles. You’ll learn the structure of the data science pipeline, the goals of each stage, and how to keep your team on target throughout. Finally, you’ll learn some down-to-earth practical skills that will help you overcome the common challenges that frequently derail data science projects.
+
+#### Courses:
+- A Crash Course in Data Science
+- Building a Data Science Team
+- Managing Data Analysis
+- Data Science in Real Life
+- Executive Data Science **Capstone**
