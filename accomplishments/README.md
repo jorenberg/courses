@@ -87,3 +87,6 @@ This course allows you to develop the following aspects of yourself:
 
 #### Creator:
 - Nader Tavassoli, Professor of Marketing.
+
+### 5. Executive Data Science Specialization
+by [Johns Hopkins University](https://www.jhu.edu/), Baltimore, MD, USA.
