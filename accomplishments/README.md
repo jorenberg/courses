@@ -84,3 +84,6 @@ This course allows you to develop the following aspects of yourself:
 - <i>Head</i>. Gain a deeper understanding of the evolving practice of brand management, one that goes further than practiced in most organisations today,
 - <i>Heart</i>. Be motivated to engage in delivering your own brands – regardless of where you are in your organisation – thereby creating superior value for customers and for your organisation,
 - <i>Hands</i>. Translate learnings into action. As Confucius is supposed to have said: “I hear and I forget. I see and I remember. I do and I understand.”
+
+#### Creator:
+- Nader Tavassoli, Professor of Marketing.
