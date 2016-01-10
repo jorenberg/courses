@@ -101,3 +101,8 @@ In four intensive courses, you will learn what you need to know to begin assembl
 - Managing Data Analysis
 - Data Science in Real Life
 - Executive Data Science **Capstone**
+
+#### Creators:
+- Roger D. Peng, PhD, Associate Professor, Biostatistics,
+- Brian Caffo, PhD, Professor, Biostatistics, and
+- Jeff Leek, PhD, Associate Professor, Biostatistics.
