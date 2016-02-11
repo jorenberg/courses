@@ -106,3 +106,6 @@ In four intensive courses, you will learn what you need to know to begin assembl
 - Roger D. Peng, PhD, Associate Professor, Biostatistics,
 - Brian Caffo, PhD, Professor, Biostatistics, and
 - Jeff Leek, PhD, Associate Professor, Biostatistics.
+
+### 6. Manage 21st Century Business Strategy
+by [Copenhagen Business School](http://www.cbs.dk/en), Copenhagen, Frederiksberg, Denmark.
