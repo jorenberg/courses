@@ -112,3 +112,9 @@ by [Copenhagen Business School](http://www.cbs.dk/en), Copenhagen, Frederiksberg
 
 #### About Manage 21st Century Business Strategy Specialization:
 This Specialization explores the evolving world of business strategy, focusing on the increasingly important roles of design, user experience, and innovation in shaping competitive advantage. You’ll learn about concepts such as goal setting, value creation, global integration, and diversification, and you’ll critique classic theories and frameworks in the context of new business realities. In the final Capstone Project, you’ll create and defend a holistic business strategy in response to a realistic case study prompt.
+
+#### Courses:
+- Strategic Management
+- Strategy Formulation
+- Strategy Implementation
+- Strategic Management - **Capstone** Project
