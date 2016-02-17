@@ -118,3 +118,8 @@ This Specialization explores the evolving world of business strategy, focusing o
 - Strategy Formulation
 - Strategy Implementation
 - Strategic Management - **Capstone** Project
+
+#### Creators:
+- Robert Austin, Professor, Management of Creativity and Innovation,
+- Marcus Møller Larsen, Assistant Professor, Strategic Management and Globalization, and
+- Nicolai Pogrebnyakov, Associate Professor.
